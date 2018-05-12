@@ -1,2 +1,5 @@
 # hello
-first
+
+Hi everyone!
+
+This is my first github repository.
